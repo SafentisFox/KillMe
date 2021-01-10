@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1250.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="JavaFXgui.Controller">
+   <children>
+      <VBox layoutX="136.0" prefHeight="771.0" prefWidth="850.0" AnchorPane.bottomAnchor="-1.0" AnchorPane.leftAnchor="200.0" AnchorPane.rightAnchor="200.0" AnchorPane.topAnchor="30.0">
+         <children>
+            <VBox prefHeight="36.0" prefWidth="364.0" />
+            <VBox alignment="CENTER" layoutX="10.0" layoutY="10.0" prefHeight="98.0" prefWidth="850.0">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" text="How many players?">
+                     <font>
+                        <Font name="Comic Sans MS" size="16.0" />
+                     </font>
+                  </Label>
+                  <TextField fx:id="playerCount" maxWidth="500.0" />
+               </children>
+            </VBox>
+            <VBox alignment="CENTER" layoutX="10.0" layoutY="46.0" prefHeight="116.0" prefWidth="850.0">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" text="How many rounds?">
+                     <font>
+                        <Font name="Comic Sans MS" size="16.0" />
+                     </font>
+                  </Label>
+                  <TextField fx:id="roundCount" maxWidth="500.0" />
+               </children>
+            </VBox>
+            <VBox alignment="CENTER" prefHeight="127.0" prefWidth="850.0">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" text="How many questions/round?">
+                     <font>
+                        <Font name="Comic Sans MS" size="16.0" />
+                     </font>
+                  </Label>
+                  <TextField fx:id="questionCount" maxWidth="500.0" />
+               </children>
+            </VBox>
+            <BorderPane prefHeight="206.0" prefWidth="850.0">
+               <center>
+                  <Button fx:id="letsGoButton" mnemonicParsing="false" onAction="#nextButtonAction" prefHeight="50.0" prefWidth="143.0" text="Next" BorderPane.alignment="CENTER">
+                     <font>
+                        <Font name="Comic Sans MS" size="24.0" />
+                     </font>
+                  </Button>
+               </center>
+            </BorderPane>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>

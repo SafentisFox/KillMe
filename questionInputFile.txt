@@ -1,0 +1,125 @@
+C:Politics
+    Q:Who won the US 2020 presidential election?
+        A:Joe Biden
+        IA:John Wick
+        IA:Donald Trump
+        IA:Jo Jorgensen
+        IA:Howie Hawkins
+    Q:Who is the current Greek Prime Minister?
+        A:Mitsotakis
+        IA:Tsipras
+        IA:Kamenos
+        IA:Pasok
+        IA:Donald Trump
+EndC
+
+C:Science/Space
+    Q:What lies in the center of our galaxy?
+        A:A supermassive black hole
+        IA:A star
+        IA:A red dwarf
+        IA:Nothing
+    Q:In about 4.5 billion years our galaxy will collide with:
+        A:Andromeda
+        IA:Triangulum
+        IA:M87
+        IA:Sagittarius A
+    Q:Which is the nearest galaxy?
+        A:Large Magellanic Cloud
+        IA:Andromeda
+        IA:Triangulum
+        IA:M87
+    Q:What powers the stars?
+        A:Nuclear fusion
+        IA:Nuclear fission
+        IA:Fire
+        IA:Explosions
+    Q:What type of civilization are we?
+        A:Type 0.7
+        IA:Type 1
+        IA:Type 2
+        IA:Type 3
+    Q:Which planet is the hottest in the solar system?
+        A:Venus
+        IA:Mercury
+        IA:Earth
+        IA:Mars
+    Q:Which planet has the most gravity?
+        A:Jupiter
+        IA:Saturn
+        IA:Uranus
+        IA:Neptune
+EndC
+C:Around the World
+    Q:Which country produces the most coffee in the world?
+	    A:Brazil
+	    IA:USA
+	    IA:China
+	    IA:Russia
+    Q:Which country invented tea?
+	    A:China
+	    IA:USA
+	    IA:Russia
+	    IA:France
+    Q:Which kind of alcohol is Russia is notoriously known for?
+	    A:Vodka
+	    IA:Whiskey
+	    IA:Gin
+	    IA:Tequila
+    Q:Which European nation was said to invent hot dogs?
+        A:Germany
+        IA:USA
+        IA:China
+        IA:France
+    Q:Which country is responsible for giving us pizza and pasta?
+        A:Italy
+        IA:USA
+        IA:China
+        IA:France
+EndC
+C:Health
+    Q:About how many taste buds does the average human tongue have?
+	    A:10,000
+	    IA:9,000
+	    IA:11,000
+	    IA:12,000
+    Q:What percentage of our bodies is made up of water?
+	    A:60-65%
+	    IA:70-75%
+	    IA:50-65%
+	    IA:75-80%
+    Q:Which element is said to keep bones strong?
+	    A:Calcium
+	    IA:Iron
+	    IA:Potassium
+	    IA:Vitamin C
+    Q:How many times does the heart beat per day?
+	    A:More than 100,000
+	    IA:100,000
+	    IA:80,000
+	    IA:Less than 80,000
+EndC
+C:Geography
+    Q:Which American state is the largest (by area)?
+	    A:Alaska
+	    IA:Texas
+	    IA:California
+	    IA:Arizona
+    Q:What is the smallest country in the world?
+	    A:Vatican City
+	    IA:Monaco
+	    IA:Nauru
+	    IA:Tuvalu
+
+    Q:Which desert is the largest in the world?
+	    A:The Sahara Desert
+	    IA:The Gobi Desert
+	    IA:The Australian Desert
+	    IA:The Arabian Desert
+    Q:What is the name of the world’s longest river?
+	    A:The Nile
+	    IA:The Amazon
+	    IA:The Ucayali
+	    IA:The Jinsha
+EndC
+
